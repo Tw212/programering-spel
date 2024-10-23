@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\programering-spel\bin\Debug\net8.0\programering-spel.exe
+C:\Users\Admin\Documents\GitHub\programering-spel\bin\Debug\net8.0\programering-spel.deps.json
+C:\Users\Admin\Documents\GitHub\programering-spel\bin\Debug\net8.0\programering-spel.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\programering-spel\bin\Debug\net8.0\programering-spel.dll
+C:\Users\Admin\Documents\GitHub\programering-spel\bin\Debug\net8.0\programering-spel.pdb
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.dll
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\refint\programering-spel.dll
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.pdb
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\programering-spel.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\programering-spel\obj\Debug\net8.0\ref\programering-spel.dll
