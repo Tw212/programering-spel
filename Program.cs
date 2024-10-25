@@ -11,13 +11,18 @@
     Console.WriteLine((a[4],a[3],a[2],a[1],a[0]));
 }
 */
-/*static void Array2(String[] args)
+static void Array2(String[] args)
 {
     double[] temperatur={4.5, 3.2, 6.7, 6.1, 2.1, 1.6,2.9};
      for()
-}*/
+}
 
-using System;
+
+
+
+
+
+/*using System;
 using System.Threading;
 namespace TIC_TAC_TOE
 {
@@ -164,5 +169,5 @@ namespace TIC_TAC_TOE
             }
         }
     }
-}
+}*/
         
